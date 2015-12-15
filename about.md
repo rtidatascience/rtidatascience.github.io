@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 RTI International's Center for Data Science is made up of data
-scientists and software developers who work together to extract
-insights from data and solve hard problems. We use Python, R,
-PostgreSQL, D3, and other open source technologies.
+scientists, statisticians, and software developers who work together
+to extract insights from data and solve hard problems. We use Python,
+R, PostgreSQL, D3, and other open source technologies.
 
 ### Contact us
 
