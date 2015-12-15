@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+RTI International's Center for Data Science is made up of data
+scientists and software developers who work together to extract
+insights from data and solve hard problems. We use Python, R,
+PostgreSQL, D3, and other open source technologies.
 
-### More Information
+### Contact us
 
-A place to include any other types of information that you'd like to include about yourself.
+You can find us on [GitHub](https://github.com/rtidatascience) and
+[Twitter](https://twitter.com/rtidatascience).
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+
